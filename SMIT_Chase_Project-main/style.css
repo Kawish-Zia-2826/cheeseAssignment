@@ -1,0 +1,10 @@
+.a{ td:nth-child(even) {background-color: blue;}
+td:nth-child(odd) {background-color: green;}}
+.b{ 
+    
+    td:nth-child(odd) {background-color: blue;}
+    td:nth-child(even) {background-color: green;}
+}
+table{
+    border: 10px solid black ;
+}
